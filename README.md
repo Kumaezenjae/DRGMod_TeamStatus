@@ -33,7 +33,7 @@ This mod is personal to you only and does not impact the experience of other mem
 * Red-blinking if you are last-man-standing
 * Plays alert tone when last-man-standing
 * Yellow indicates iron-willed used
-* Yellow indicates teammate has been grabbed
+* Green indicates teammate has been grabbed
 * Shared edge highlights purple for Mission Control chats
 * Shared edge and teammate highlight blue when Molly called
 * Shows directional arrows, turn screen in pointed direction to find teammate
