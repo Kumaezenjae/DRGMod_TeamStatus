@@ -56,4 +56,7 @@ _Note: some indicators may only appear when you are hosting_
 * Automatic disable in single player
 * ... leave suggestions on the [ModIO comments page](https://drg.mod.io/team-status-widget/)!
 
+### Known Bugs
+* In some cases when killed by a leech, grabbed-status can get stuck on
+
 ***
