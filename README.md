@@ -25,7 +25,7 @@ This mod is personal to you only and does not impact the experience of other mem
 * Shows teammate role colors & first initial
 * Shows host using crown icon
 * Shows health and shield of team
-* Shows ammo levels
+* Shows ammo levels & grenade quantities
 * Shows lagging teammates with clock icon
 * Highlights purple for teammate sent chat
 * Highlights blue for teammate voice chatting
@@ -34,6 +34,8 @@ This mod is personal to you only and does not impact the experience of other mem
 * Plays alert tone when last-man-standing
 * Yellow indicates iron-willed used
 * Green indicates teammate has been grabbed
+* Indicate pickaxe recharge time
+* Indicate flare recharge time
 * Shared edge highlights purple for Mission Control chats
 * Shared edge and teammate highlight blue when Molly called
 * Shows directional arrows, turn screen in pointed direction to find teammate
@@ -45,10 +47,9 @@ _Note: some indicators may only appear when you are hosting_
 ### Upcoming Future Features
 * Toggle or Hold-To-Show keybindings
 * Automatic situational transparency
-* Indicate pickaxe recharge time
 * Floating chat text speech bubbles
 * Teammate has pinged & pinged item
-* Individual weapon ammo, grenade quantities
+* Individual weapon ammo
 * Friendly-fire indicators
 * In-Combat indicators
 * Show teammate promotion rank & level
@@ -57,6 +58,6 @@ _Note: some indicators may only appear when you are hosting_
 * ... leave suggestions on the [ModIO comments page](https://drg.mod.io/team-status-widget/)!
 
 ### Known Bugs
-* In some cases when killed by a leech, grabbed-status can get stuck on
+* ...
 
 ***
