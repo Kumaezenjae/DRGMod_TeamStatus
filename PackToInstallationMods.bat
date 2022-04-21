@@ -20,8 +20,8 @@ xcopy /Y /S "%thisdir%\WindowsNoEditor\FSD\Content\*" "%packerdir%\Input\Content
 call %packerdir%\_Repack.bat "%packerdir%\Input"
 
 del "%packerdir%\autogen.txt"
-move /Y "%packerdir%\Input _P.pak" "%thisdir%\Releases\vLatestBuild\"
-move /Y "%thisdir%\Releases\vLatestBuild\Input _P.pak" "%thisdir%\Releases\vLatestBuild\TeamStatus.pak"
+move /Y "%packerdir%\Input.pak" "%thisdir%\Releases\vLatestBuild\"
+move /Y "%thisdir%\Releases\vLatestBuild\Input.pak" "%thisdir%\Releases\vLatestBuild\TeamStatus.pak"
 move /Y "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak.4.bak" "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak.5.bak"
 move /Y "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak.3.bak" "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak.4.bak"
 move /Y "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak.2.bak" "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak.3.bak"
