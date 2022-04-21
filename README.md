@@ -8,9 +8,9 @@ _Note: Dependent on [ModHub](https://drg.mod.io/mod-hub)_
 ***
 ### Summary
 
-This QoL verified DRG mod improves the game's user-interface in regard to team-related or communication-related aspects.  It adds more noticable chat alert tones and an on-screen widget that consolidates team status information.  It has ModHub settings pages for configuring various parts of the widget.  
+This client-side QoL verified DRG mod improves the game's user-interface in regard to team-related or communication-related aspects.  It adds more noticable chat alert tones and an on-screen widget that consolidates team status information.  It has ModHub settings pages for configuring various parts of the widget.  
 
-This mod is personal to you only and does not impact the experience of other members in the lobby, whether you are the host or client.  
+Now updated for Season-2 U36 Experimental Release.   
 ***
 ### Chat Alert Tones
 * Enable & disable without reloading
