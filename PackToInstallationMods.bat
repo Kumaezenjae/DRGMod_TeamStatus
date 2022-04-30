@@ -29,6 +29,9 @@ move /Y "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mo
 move /Y "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak"       "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\TeamStatus.pak.1.bak"
 copy /Y "%thisdir%\Releases\vLatestBuild\TeamStatus.pak" "c:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Mods\TeamStatus\"
 
+rmdir /S /Q "%packerdir%\Input"
+mkdir "%packerdir%\Input"
+
 cd %orig_cwd%
 pause
 
