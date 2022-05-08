@@ -1,0 +1,5 @@
+Welcome to the Deep Rock Galactic modding readme!
+To install mods, open the game and go to the modding tab on the esc menu.
+From there click the install button and browse to the mods you want to install. Click subscribe to install a mod.
+More info can be found here: https://drg.mod.io/ 
+If you want to make mods for the game, info can be found here: https://drg.mod.io/guides 
