@@ -1,0 +1,6 @@
+FSD/Content/_TeamStatus/TeamStatusMonitor/TeamStatusMonitorLifecycle.uasset
+FSD/Content/_TeamStatus/TeamStatusMonitor/TeamStatusMonitorPlayerState.uasset
+FSD/Content/_TeamStatus/TeamStatusMonitor/TeamStatusMonitorGameSettings.uasset
+FSD/Content/_TeamStatus/TeamStatusMonitor/TeamStatusMonitorCommunications.uasset
+FSD/Content/_TeamStatus/TeamStatusMonitor/TeamStatusMonitorDataRequests.uasset
+FSD/Content/_TeamStatus/TeamStatusMonitor/TeamStatusPlayerDetails.uasset
