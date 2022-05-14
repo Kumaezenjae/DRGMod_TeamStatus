@@ -35,7 +35,6 @@ Now updated for Season-2 U36 Experimental Release.
 * Highlights blue for teammate voice chatting
 * Red indicates dead teammate
 * Red-blinking if you are last-man-standing
-* Plays alert tone when last-man-standing
 * Yellow indicates iron-willed used
 * Green indicates teammate has been grabbed
 * Indicate pickaxe recharge time
