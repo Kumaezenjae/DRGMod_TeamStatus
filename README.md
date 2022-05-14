@@ -2,7 +2,10 @@
 # Team Status & Chat Alert Tones
 ## DRG Mod : by Kumaezenjae
 
-Found and distributed using [ModIO](https://drg.mod.io/team-status-widget), please report any bugs using its comment feature or in the [DRG Modding Discord](https://discord.gg/4SGkHDGSeU).
+Found and distributed using [ModIO](https://drg.mod.io), please report any bugs using its comment feature or in the [DRG Modding Discord](https://discord.gg/4SGkHDGSeU).
+- Refer to: [Team Alert Tones](https://drg.mod.io/team-alert-tones)
+- Refer to: [Team Status Widget](https://drg.mod.io/team-status-widget)
+- Refer to: [Team Status Monitor](https://drg.mod.io/team-status-monitor)
 
 _Note: Dependent on [ModHub](https://drg.mod.io/mod-hub)_
 ***
@@ -12,10 +15,11 @@ This client-side QoL verified DRG mod improves the game's user-interface in rega
 
 Now updated for Season-2 U36 Experimental Release.   
 ***
-### Chat Alert Tones
+### Team Alert Tones
 * Enable & disable without reloading
 * Louder alert tone when chat received
 * Customize volume for chat alert tone
+* Last-One-Standing Alert Tone option
 * Settings available via ModHub
 
 ### Team Status Widget
@@ -44,6 +48,10 @@ Now updated for Season-2 U36 Experimental Release.
 
 _Note: some indicators may only appear when you are hosting_
 
+### Team Status Monitor
+* Provides common back-end events that can be used by multiple UI indicator mods
+* Required to install and enable, but no significant user-facing features
+
 ### Upcoming Future Features
 * Toggle or Hold-To-Show keybindings
 * Automatic situational transparency
@@ -55,7 +63,9 @@ _Note: some indicators may only appear when you are hosting_
 * Show teammate promotion rank & level
 * Single player mode: Bosco Status, lives remaining
 * Automatic disable in single player
-* ... leave suggestions on the [ModIO comments page](https://drg.mod.io/team-status-widget/)!
+* Sprint and dash indicators
+* Iron will timers
+* ... leave suggestions on the ModIO comments page!
 
 ### Known Bugs
 * ...
