@@ -51,11 +51,12 @@ set subPath=_TeamStatus\SimpleHUDUpgrades
 xcopy /Y /S "%thisdir%\WindowsNoEditor\FSD\Content\%subPath%\*" "%packerdir%\Input\Content\%subPath%\"
 call :PackAndCopy
 
-rmdir /S /Q "%thisdir%/Public"
 mkdir "%thisdir%/Public"
+rmdir /S /Q "%thisdir%/Public/vLatestBuild"
+mkdir "%thisdir%/Public/vLatestBuild"
 for /f "delims=" %%f in (%thisdir%/PublicInterfaces.txt) do (
     echo "Copying public interface file: %%~nxf"
-    echo F|xcopy /F /Y "%thisdir%\%%f" "%thisdir%\Public\%%f"
+    echo F|xcopy /F /Y "%thisdir%\%%f" "%thisdir%\Public\vLatestBuild\%%f"
 )
 
 cd %orig_cwd%
